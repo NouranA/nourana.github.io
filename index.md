@@ -6,4 +6,4 @@ I am a Ph.D. student in the Department of Genetics at Harvard Medical School in 
 
 ### More Information
 
-![alt text](images/Nouran.jpg)
+![alt text](images/Nouran.JPG)
