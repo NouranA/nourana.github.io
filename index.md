@@ -8,8 +8,8 @@ Welcome to my website! My name is Nouran Abdelfattah and I am a Ph.D. student in
 
 ### My Publications
 
-1. [**Abdelfattah NS<sup>*</sup>** and Mullally A. Using CRISPR/Cas9 gene editing to investigate the oncogenic activity of mutant calreticulin in cytokine dependent hematopoietic cells. *J Vis Exp* (2017).](https://www.jove.com/video/56726/using-crisprcas9-gene-editing-to-investigate-oncogenic-activity)
-2. 
+1. **Abdelfattah NS** and Mullally A. [Using CRISPR/Cas9 gene editing to investigate the oncogenic activity of mutant calreticulin in cytokine dependent hematopoietic cells. *J Vis Exp* (2017).](https://www.jove.com/video/56726/using-crisprcas9-gene-editing-to-investigate-oncogenic-activity)
+2.
 
 
 <!-- ![alt text](images/Nouran.JPG) -->
